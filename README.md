@@ -18,8 +18,28 @@ The coaches entity contains essential details about each coach, including their 
 The games entity stores crucial details about each basketball game. It is linked to teams through a one-to-many relationship, as each team plays many games.The information recorded includes the date, location, and duration of each game, all associated with a specific team.
 
 The payment records entity stores important information regarding the financial transactions of each member. It includes details such as the billing date, amount owed, payment type, and payment status. This entity is associated with member profiles through a one-to-one relationship, as each member is linked to a specific payment record.
+<img width="941" alt="Screenshot 2024-04-22 at 2 49 57 PM" src="https://github.com/shriyatummalapalli/Group-Project-One/assets/167737199/12c2a3a3-a08e-42a7-9043-5ccce81ea550">
+
 
 ## Data Dictionary
+![image](https://github.com/shriyatummalapalli/Group-Project-One/assets/167737199/35beb05a-10c6-4910-8c21-084d05ef091c)
+
+![image](https://github.com/shriyatummalapalli/Group-Project-One/assets/167737199/00169132-8d1a-4b07-856b-2832cde069d2)
+
+![image](https://github.com/shriyatummalapalli/Group-Project-One/assets/167737199/c2610644-1046-4e6a-8188-2a53527e25f2)
+
+![image](https://github.com/shriyatummalapalli/Group-Project-One/assets/167737199/cdc1806b-d701-4b84-85c3-3e9b632ea2f2)
+
+![image](https://github.com/shriyatummalapalli/Group-Project-One/assets/167737199/ca8b74df-3c31-4da9-b1ed-7eb421432f7e)
+
+![image](https://github.com/shriyatummalapalli/Group-Project-One/assets/167737199/291e0e8f-c07f-48d7-8543-b4d214186096)
+
+
+
+
+
+
+
 
 
 
