@@ -7,7 +7,7 @@ The task at hand involves building a relational database to manage the operation
 ## Data Model
 The purpose of the data model depicted is to effectively show the relationships between the various entities that make up the hypothetical basketball club. 
 
-The memberProfiles entity holds vital member details for the basketball club. It is an entity that stores important information about individuals who comprise the club such as, the members name and contact info. There is a one-to-many relationship between memberProfiles and Teams, as multiple members can belong to a single team. Additionally, there is a one-to-one relationship between members and payment records, as each member has a single payment record.
+The memberProfiles entity holds vital member details for the basketball club. It is an entity that stores important information about individuals who comprise the club such as, the members name and contact info. There is a one-to-many relationship between memberProfiles and Teams, a single member can be part of many teams. Additionally, there is a one-to-one relationship between members and payment records, as each member has a single payment record.
 
 The memberStats entity serves as an associative entity between member profiles and teams within the basketball club database. It contains a unique playerStatsID along with references to the member and team associated with it. Additionally, there is an attribute for points, representing the number of points scored by each player. This entity facilitates the tracking of individual player statistics within the context of their respective teams.
 
